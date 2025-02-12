@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+
+# Allow only essential files for npm package
+!dist/
+!package.json
+!README.md
+!LICENSE
+!CHANGELOG.md
+!index.d.ts
